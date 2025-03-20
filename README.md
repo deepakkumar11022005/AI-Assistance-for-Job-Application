@@ -96,16 +96,16 @@ Here’s a **README.md** file for your project. This document provides an overvi
 
 ## Screenshots
 
-![Resume Upload](screenshots/resume-upload.png)
+![Resume Upload]([screenshots/resume-upload.png](https://github.com/deepakkumar11022005/AI-Assistance-for-Job-Application/blob/main/AI%20Assist%20page1.png))
 *Upload your resume in PDF format.*
 
-![Job Matching](screenshots/job-matching.png)
+![Job Matching]([screenshots/job-matching.png](https://github.com/deepakkumar11022005/AI-Assistance-for-Job-Application/blob/main/AI%20Assist%20page2.png))
 *Compare your resume with the job description.*
 
-![Cover Letter Generation](screenshots/cover-letter.png)
+![Cover Letter Generation]([screenshots/cover-letter.png](https://github.com/deepakkumar11022005/AI-Assistance-for-Job-Application/blob/main/AI%20Assist%20page2.png))
 *Generate and download personalized cover letters.*
 
-![Auto-Fill](screenshots/auto-fill.png)
+![Auto-Fill]([screenshots/auto-fill.png](https://github.com/deepakkumar11022005/AI-Assistance-for-Job-Application/blob/main/AI%20Assist%20page3.png))
 *Auto-fill job application forms with your resume data.*
 
 ---
