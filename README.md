@@ -4,7 +4,7 @@ Here’s a **README.md** file for your project. This document provides an overvi
 
 # AI Assistant for Job Applications
 
-![Extension Icon](assets/ext-icon.png)
+
 
 **AI Assistant for Job Applications** is a Chrome extension designed to help job seekers streamline their job application process. It provides tools for resume optimization, job matching, cover letter generation, and auto-filling job application forms.
 
