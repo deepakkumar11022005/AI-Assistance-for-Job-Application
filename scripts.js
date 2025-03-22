@@ -1,4 +1,4 @@
-const GEMINI_API_KEY = "AIzaSyBARN89SS9CSCPoSMnmzWNjWlI2dDqllmk";
+const GEMINI_API_KEY = "Your_api_key";
 
 document.addEventListener("DOMContentLoaded", function () {
 
